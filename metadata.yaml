@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34080
     wikipedia: http://en.wikipedia.org/wiki/Frank_Wedekind
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45091#Fr-hlings-Erwachen--Eine-Kindertrag-die
 gutenberg_issued: '2014-03-09'
 gutenberg_type: Text
 identifiers:
